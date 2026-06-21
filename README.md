@@ -1,16 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mahfuz Shaikot</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+# Hi there, I'm Mahfuz Shaikot 👋
+### AI-Driven Backend Engineer | Microservice & Enterprise Systems Specialist
 
-- 🔭 I’m currently working on **CI/CD Pipeline**
+I am a Software Engineer focused on designing high-throughput distributed systems, secure enterprise backend architectures, and intelligent AI integrations. My defining engineering principle is an unwavering commitment to the core pipeline: **I deeply understand complex business logic and meticulously translate it into predictable, scalable, and highly maintainable programming logic.**
 
-- 👯 I’m looking to collaborate on **open source AI tool**
+Beyond writing syntax, I possess elite technical communication skills—capable of decomposing complex multi-layered architectural paradigms into plain, precise English.
 
-- ⚡ Fun fact **What's funny :?**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ The Technical Ecosystem
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| Layer | Core Technologies & Competencies |
+| :--- | :--- |
+| **Backend & Enterprise** | Java, Spring Boot, Microservices Architecture, RESTful/GraphQL APIs, Kotlin, C, C++ |
+| **Languages & Scripts** | TypeScript, JavaScript (ES6+), Python, Advanced Linux Shell Scripting |
+| **Databases & Caching** | MySQL (Engineered for large datasets), Redis (High-throughput caching framework) |
+| **AI & Orchestration** | LangChain ecosystem, Vector Databases, Context-Aware RAG Pipelines, AWS SageMaker |
+| **Infrastructure & Environment** | Docker virtualization, Enterprise CI/CD pipelines, Git/GitHub version control |
+| **Host Workstation** | Linux Kernel Environments (Fedora as main drive), Windows Architecture |
 
+---
+
+## ⚡ Local R&D Terminal [Active Workspace]
+
+> ### `[dont want to reveal my strength now]`
+> Currently driving a localized, completely autonomous system-wide **J.A.R.V.I.S.** layer directly on my bare-metal host environment. 
+> * **Architecture:** High-performance Retrieval-Augmented Generation (RAG) wired into an ultra-low latency Redis caching layer.
+> * **Engine:** Running localized `Qwen 2.5:14B` configured with a `128B token` architecture. 
+> * **Profile:** Fast, real-time context streaming. Call me flash alongside crazy.
+
+---
+
+## 🎓 Rigorous Engineering Foundations
+
+My systems engineering methodologies are rooted in a comprehensive academic and practical execution of the Computer Science curriculum at the **Bangladesh University of Business and Technology (BUBT)**. My knowledge profile covers complex problem solving across core infrastructures:
+
+*   **Operating Systems:** Comprehensive exploration of process concurrency, short/long-term CPU scheduling, mutual exclusion semaphores, deadlocks via Banker's algorithm, and custom memory management architectures (Demand Paging/Segmentation), verified via *CSE 209.docx*.
+*   **Computer Architecture:** Implementation of digital processor hardware configurations, data pathways, pipeline design tracking data/control hazards, and advanced cache/virtual memory performance analytics, verified via *CSE-215 Course Outline 53(1).pdf*.
+*   **Artificial Intelligence & Expert Systems:** Architecture of knowledge-based agents using Bayesian Networks, intelligent search mechanics (A* and Heuristic optimization), Genetic Algorithms (Knapsack/TSP mapping), and custom Multi-Layer Perceptrons, verified via *CSE 321 course outline.pdf*.
+*   **Computer Networks:** In-depth design and analysis of classless networking protocols, dynamic internet routing frameworks (OSPF, BGP), transport layout management (TCP Congestion architectures), and robust cryptographic security loops (RSA implementations), verified via *COURSE OUTLINE.pdf*.
+
+---
+
+## 📁 Scaled Repositories Roadmap
+<!-- The repository architecture below is cleanly structured to dynamically scale as upcoming production code drops -->
+
+### 🚀 Enterprise & Core Infrastructures
+*   **[Repository Name 1]** · *Coming Soon* — Production-grade Spring Boot microservices cluster highlighting horizontal scaling metrics, API Gateways, and event-driven data flow.
+*   **[Repository Name 2]** · *Coming Soon* — High-optimization query indexer engineered to manage, partition, and safely manipulate ultra-large MySQL datasets.
+
+### 🤖 Intelligent Frameworks
+*   **[Repository Name 3]** · *Coming Soon* — Context-aware automated backend microservice orchestrating localized LLMs via LangChain pipelines and asynchronous event workers.
+
+---
+
+## 🕹️ Systems Thinking & Strategy (Off-Screen)
+
+When the code compilation rests, my systems tracking doesn't. My primary strategy vehicle is **Factorio**, where I construct and refactor massive automated logistic factory pipelines down to the exact item-per-second throughput efficiency. 
+
+I channel that exact same real-time micro-calculation, tactical positioning, and competitive drive into high-stakes tactical shooter spaces, specifically: *Counter-Strike 2 (CS2), Valorant, Delta Force, Battlefield 2042,* and *Call of Duty: Warzone*.
+
+---
+
+## 📬 Enterprise Connection
+
+*   📍 **Location:** DEPZ, Savar, Dhaka, Bangladesh *(Available for elite global remote engineering mandates)*
+*   💼 **LinkedIn:** [linkedin.com/in/your-profile](https://github.com/ShadowShahriar) <!-- Paste your actual link here -->
+*   📧 **Direct Infrastructure Line:** [your.email@example.com](mailto:your.email@example.com) <!-- Paste your email here -->
