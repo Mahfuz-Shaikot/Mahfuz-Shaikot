@@ -5,10 +5,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=AI-Driven+Backend+Engineer;Microservice+%26+Enterprise+Systems+Specialist;Business+Logic+%E2%86%92+Scalable+Programming+Logic;Distributed+Systems+%7C+Spring+Boot+%7C+Java" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/wakatime-286%20hrs%2030%20mins-22C55E?style=flat&logo=wakatime&logoColor=white" alt="Wakatime" />
-  <img src="https://komarev.com/ghpvc/?username=Mahfuz-Shaikot&color=22C55E&style=flat&label=Profile%20views" alt="Profile views" />
+  <a href="https://wakatime.com/@0e7892ac-a999-455d-8749-a26c20ca3e8e"><img src="https://wakatime.com/badge/user/0e7892ac-a999-455d-8749-a26c20ca3e8e.svg?color=22C55E" alt="Total time coded" height="30"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Mahfuz-Shaikot&color=22C55E&style=flat-square&label=Profile%20views" alt="Profile views" height="30"/>
 </p>
 
 </div>
@@ -41,6 +39,28 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 ---
 
+
+## 📊 Statistics
+
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfuz-Shaikot&background=0d1117&title=22C55E&text=ffffff&sideNums=ffffff&sideTitle=22C55E&fire=22C55E&ring=22C55E&currStreakNum=22C55E&currStreakLabel=22C55E&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz-Shaikot&show_icons=true&bg_color=0d1117&title_color=22C55E&text_color=ffffff&icon_color=22C55E&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true" alt="Most Used Languages" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Time%20Spent&query=%24.data.grand_total.text&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40Mahfuz-Shaikot%2Fapi%2Fv1%2Fstatus&color=22C55E&labelColor=0d1117" alt="Time Spent" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 
