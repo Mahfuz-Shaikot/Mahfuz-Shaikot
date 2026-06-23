@@ -5,8 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=AI-Driven+Backend+Engineer;Microservice+%26+Enterprise+Systems+Specialist;Business+Logic+%E2%86%92+Scalable+Programming+Logic;Distributed+Systems+%7C+Spring+Boot+%7C+Java" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <a href="https://wakatime.com/@0e7892ac-a999-455d-8749-a26c20ca3e8e"><img src="https://wakatime.com/badge/user/0e7892ac-a999-455d-8749-a26c20ca3e8e.svg?color=22C55E" alt="Total time coded" height="30"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Mahfuz-Shaikot&color=22C55E&style=flat-square&label=Profile%20views" alt="Profile views" height="30"/>
+  <a href="https://wakatime.com/@0e7892ac-a999-455d-8749-a26c20ca3e8e"><img src="https://wakatime.com/badge/user/0e7892ac-a999-455d-8749-a26c20ca3e8e.svg?color=004D20" alt="Total time coded" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mahfuz-Shaikot&color=004D20&style=flat&label=Profile%20views" alt="Profile views" />
 </p>
 
 </div>
