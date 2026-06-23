@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@0e7892ac-a999-455d-8749-a26c20ca3e8e"><img src="https://wakatime.com/badge/user/0e7892ac-a999-455d-8749-a26c20ca3e8e.svg?color=004D20" alt="Total time coded" /></a>&nbsp;
+  <!-- <a href="https://wakatime.com/@0e7892ac-a999-455d-8749-a26c20ca3e8e"><img src="https://wakatime.com/badge/user/0e7892ac-a999-455d-8749-a26c20ca3e8e.svg?color=004D20" alt="Total time coded" /></a>&nbsp; -->
   <img src="https://komarev.com/ghpvc/?username=Mahfuz-Shaikot&color=004D20&style=flat&label=Profile%20views" alt="Profile views" />
 </p>
 
@@ -42,26 +42,23 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 ---
 
 
-## 📊 Statistics
-
-
+## 📊 GitHub Stats
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfuz-Shaikot&background=0d1117&title=22C55E&text=ffffff&sideNums=ffffff&sideTitle=22C55E&fire=22C55E&ring=22C55E&currStreakNum=22C55E&currStreakLabel=22C55E&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfuz-Shaikot&theme=tokyonight&background=0d1117&title=22C55E&sideTitle=22C55E&currStreakLabel=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=ffffff&text=ffffff&dates=ffffff&hide_border=true&v=4" alt="GitHub Streak" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <!-- <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz-Shaikot&show_icons=true&bg_color=0d1117&title_color=22C55E&text_color=ffffff&icon_color=22C55E&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
+    </td> 
+  </tr>  
+  <tr> -->
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true" alt="Most Used Languages" width="100%" />
     </td>
-     <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahfuz_Shaikot&theme=tokyonight&custom_title=Time%20Spent&v=finalfix" alt="Time Spent" />
-</td>
-
+    <!-- <td width="50%" align="center">
+  <img src="https://github-readme-stats-markdown-bar.vercel.app/api/wakatime?username=Mahfuz_Shaikot&theme=tokyonight&custom_title=Time%20Spent&display_format=time" alt="Time Spent" />
+</td> -->
   </tr>
 </table>
 
@@ -98,101 +95,21 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 ---
 
-## ⚡ Local R&D Terminal `[Active Workspace]`
-
-> ### `[dont want to reveal my strength now]`
-> Currently driving a localized, completely autonomous system-wide **J.A.R.V.I.S.** layer directly on my bare-metal host environment.
->
-> | Component | Detail |
-> |---|---|
-> | **Architecture** | High-performance RAG wired into an ultra-low latency Redis caching layer |
-> | **Engine** | `qwen2.5:14b` · 32k context window |
-> | **Stack** | VectorDB · LangChain · Redis · Fedora Linux |
-> | **Profile** | Fast. Real-time. Context-aware. |
->
-> *Call me flash — alongside crazy.*
-
----
 
 ## 🎓 Engineering Foundations
 
-Rooted in a rigorous Computer Science curriculum at **BUBT**:
+A selection of core university coursework from **BUBT** that built my foundational knowledge and shaped my understanding of software architecture:
 
-| Domain | Key Concepts |
-|---|---|
-| **Operating Systems** | Process concurrency, CPU scheduling, semaphores, Banker's Algorithm, demand paging |
-| **Computer Architecture** | Pipeline design, hazard analysis, cache optimization, virtual memory |
-| **Artificial Intelligence** | Bayesian Networks, A\* search, Genetic Algorithms, custom MLPs |
-| **Computer Networks** | OSPF/BGP routing, TCP congestion, CIDR, RSA cryptography |
-| **Compiler Design** | Lexical analysis, parsing theory, grammar design |
-| **Data Structures & Algorithms** | Complex problem solving, complexity analysis, optimization |
+<details>
+  <summary><b>View Completed Courses 📚</b></summary>
+  <br/>
 
----
-
-## 📁 Repositories `[Scaling Up]`
-
-I build for production quality — repositories are coming in focused, high-signal drops.
-
-### 🚀 Enterprise & Core Infrastructure
-
-| Repository | Status | Description |
-|---|---|---|
-| `spring-microservice-cluster` | *Coming Soon* | Production Spring Boot microservices · Horizontal scaling · API Gateway · Event-driven flow |
-| `mysql-large-dataset-indexer` | *Coming Soon* | High-optimization query engine for partitioning and manipulating ultra-large MySQL datasets |
-
-### 🤖 Intelligent Systems
-
-| Repository | Status | Description |
-|---|---|---|
-| `ai-backend-orchestrator` | *Coming Soon* | Context-aware microservice orchestrating local LLMs via LangChain with async event workers |
-
-> [!TIP]
-> Each repository will include a full `README.md`, `CONTRIBUTING.md`, `LICENSE`, and relevant GitHub Topics for discoverability. Quality over quantity — always.
+  *   **Software Architecture & Design Patterns** — Understanding architectural styles, scalability, and clean code principles.
+  *   **Object-Oriented Programming (OOP)** — Core concepts of encapsulation, inheritance, polymorphism, and abstraction.
+  *   **Database Management Systems (DBMS)** — Relational database design, normalization, and structural architecture.
+  *   **Data Structures & Algorithms** — Foundational problem-solving and efficiency optimization.
+</details>
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## 🕹️ Systems Thinking, Off-Screen
-
-When the code rests, the systems thinking doesn't.
-
-**Factorio** is my primary game — a factory automation simulator that forces you to think in pipelines, throughput, and scale. Every session is a direct exercise in backend engineering concepts:
-
-- **Throughput optimization** — items-per-second measured exactly like requests-per-second
-- **Load balancing** — splitter networks mirror distributed traffic routing; a backlogged output kills throughput the same way an overloaded service instance does
-- **Pipeline architecture** — the "main bus" is structurally identical to a data pipeline: a central resource stream with modular consumers branching off it
-- **Scalability** — local belts handle small load; train networks (distributed systems) handle bulk transport at scale
-
-When the factory runs itself, you've engineered a system — not written a script. That mindset is permanent.
-
-Also active in: **CS2 · Valorant · Delta Force · Battlefield 2042 · Warzone** — tactical shooters demanding real-time callouts, positioning, and high-pressure decisions.
-
----
-
-## 📬 Connect
-
-| | |
-|---|---|
-| 📍 Location | DEPZ, Savar, Dhaka, Bangladesh |
-| 🌐 Availability | Open to elite global remote mandates — immediately |
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
-
----
-
-<div align="center">
-
-*I don't just write code. I engineer systems that scale.*
-
-</div>
