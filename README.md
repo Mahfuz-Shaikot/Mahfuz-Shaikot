@@ -29,15 +29,21 @@ My engineering philosophy centers on a simple principle:
 
 <br>
 
-Beyond writing syntax — I can deconstruct any complex, multi-layered system into plain, precise English. That's a rare skill in engineering, and I treat it as seriously as the code itself.
+Currently—
+*  I’m engineering a **production-ready ecosystem** at [Firearm Information and Repository System (FIRS)](https://mahfuz-shaikot.github.io/Firearm_Information_and_Repository_System-FIRS/).
+*  I’m practicing **algorithmic optimization** and **competitive programming** regularly on [CodeForces](https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot).
+*  I’m analyzing high-throughput **automated logistics** in [Factorio](https://www.youtube.com/watch?v=vPdUjLqC15Q) and tactical **pattern recognition** on [Chess](https://www.chess.com/member/ghost_reboot).
+
+Yes, I am open to **freelancing** opportunities and global **remote backend engineering** roles.
 
 > [!NOTE]
-> I'm currently a **B.Sc. Engg. in CSE** student at **Bangladesh University of Business and Technology (BUBT)** — and actively available for **global remote engineering roles**.
+> I'm currently a **B.Sc. Engg. in CSE** student at **Bangladesh University of Business and Technology (BUBT)** — and looking to collaborate, harden my skills, and contribute to open-source software.
 
 ---
 
 
-UNDER CONSTRUCTION...
+
+
 
 ## 🛠️ The Technical Ecosystem
 
