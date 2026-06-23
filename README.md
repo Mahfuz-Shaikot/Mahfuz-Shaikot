@@ -30,7 +30,7 @@ My engineering philosophy centers on a simple principle:
 <br>
 
 Currently—
-*  I’m engineering a **production-ready ecosystem** at [Firearm Information and Repository System (FIRS)](https://mahfuz-shaikot.github.io/Firearm_Information_and_Repository_System-FIRS/).
+*  I’m engineering a **production-ready** ecosystem at [Firearm Information and Repository System (FIRS)](https://mahfuz-shaikot.github.io/Firearm_Information_and_Repository_System-FIRS/).
 *  I’m practicing **algorithmic optimization** and **competitive programming** regularly on [CodeForces](https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot).
 *  I’m analyzing high-throughput **automated logistics** in [Factorio](https://www.youtube.com/watch?v=vPdUjLqC15Q) and tactical **pattern recognition** on [Chess](https://www.chess.com/member/ghost_reboot).
 
@@ -58,9 +58,10 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true" alt="Most Used Languages" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Time%20Spent&query=%24.data.grand_total.text&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40Mahfuz-Shaikot%2Fapi%2Fv1%2Fstatus&color=22C55E&labelColor=0d1117" alt="Time Spent" width="100%" />
-    </td>
+     <td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahfuz_Shaikot&theme=tokyonight&custom_title=Time%20Spent&v=finalfix" alt="Time Spent" />
+</td>
+
   </tr>
 </table>
 
