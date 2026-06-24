@@ -37,9 +37,16 @@ Currently—
 Yes, I am open to **freelancing** opportunities and global **remote backend engineering** roles.
 
 > [!NOTE]
-> I'm currently a **B.Sc. Engg. in CSE** student at **Bangladesh University of Business and Technology (BUBT)** — and Open to internships, collaborations & open-source contributions.
+> I'm currently a **B.Sc. Engg. in CSE** student at **[Bangladesh University of Business and Technology (*BUBT*)](https://www.bubt.edu.bd/)** — and Open to internships, collaborations & open-source contributions.
 
 ---
+
+## 🌐 Live Projects
+
+[![FIRS](https://img.shields.io/badge/FIRS-007acc?logo=databricks&logoColor=white)](https://mahfuz-shaikot.github.io/Firearm_Information_and_Repository_System-FIRS/)
+[![Project 01 Portfolio](https://img.shields.io/badge/Frontend-5c6bc0?logo=codeclimate&logoColor=white)](https://mahfuz-shaikot.github.io/Project_01_Portfolio/)
+
+
 
 <!--
 
@@ -69,7 +76,8 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 [![](https://skillicons.dev/icons?i=linux,windows&perline=10)](https://skillicons.dev)
 
 -->
-## 🛠️ Tech Stack
+
+## 🛠️ Technical Ecosystem
 
 #### 🚀 Backend & Enterprise
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -123,7 +131,6 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 ---
 
-
 ## 📊 GitHub Stats
 <table border="0">
   <tr>
@@ -144,11 +151,10 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
   </tr>
 </table>
 
----
-
+<!--
 ## 🎓 Engineering Foundations
 
-A selection of core university coursework from **BUBT** that built my foundational knowledge and shaped my understanding of software architecture:
+A selection of core university coursework from ***[BUBT](https://www.bubt.edu.bd/)*** that built my foundational knowledge and shaped my understanding of software architecture:
 
 <details>
   <summary><b>View Completed Courses 📚</b></summary>
@@ -160,6 +166,6 @@ A selection of core university coursework from **BUBT** that built my foundation
   *   **Data Structures & Algorithms** — Foundational problem-solving and efficiency optimization.
 </details>
 
----
+-->
 
 
