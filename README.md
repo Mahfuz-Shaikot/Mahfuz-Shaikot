@@ -38,6 +38,8 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 > [!NOTE]
 > I'm currently a **B.Sc. Engg. in CSE** student at **[Bangladesh University of Business and Technology (*BUBT*)](https://www.bubt.edu.bd/)** — and Open to internships, collaborations & open-source contributions.
+</br>
+<p align="center"><a href="https://mahfuz-shaikot.github.io/Project_01_Portfolio/"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="Website" height="35" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mahfuzul-bashar-shaikot-3130373b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot"><img src="https://img.shields.io/badge/Codeforces-FFCC00?style=flat&logo=codeforces&logoColor=black" alt="Codeforces" height="35" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="35" /></a>&nbsp;&nbsp;<a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter" height="35" /></a>&nbsp;&nbsp;<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="35" /></a>&nbsp;&nbsp;<a href="https://www.chess.com/member/ghost_reboot"><img src="https://img.shields.io/badge/Chess-7FA650?style=flat&logo=chessdotcom&logoColor=white" alt="Chess" height="35" /></a></p>
 
 ---
 
@@ -167,5 +169,3 @@ A selection of core university coursework from ***[BUBT](https://www.bubt.edu.bd
 </details>
 
 -->
-
-
