@@ -62,7 +62,7 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
   </tr>
 </table>
 
-
+<!--
 
 ## 🛠️ Tech Stack
 
@@ -89,8 +89,8 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 [![](https://skillicons.dev/icons?i=linux,windows&perline=10)](https://skillicons.dev)
 
+-->
 
-<!--
 ## 🛠️ Tech Stack
 
 #### 🚀 Backend & Enterprise
@@ -139,7 +139,7 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
--->
+
 ---
 
 
