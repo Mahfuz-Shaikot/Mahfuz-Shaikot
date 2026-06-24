@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Mahfuz Shaikot 
 
 <p align="center">
@@ -32,14 +32,14 @@ My engineering philosophy centers on a simple principle:
 Currently—
 *  Developing a **production-ready backend ecosystem** and secure data architecture for the [Firearm Information and Repository System (FIRS)](https://mahfuz-shaikot.github.io/Firearm_Information_and_Repository_System-FIRS/).
 *  Actively refining **data structures**, **algorithmic optimization**, and **competitive programming** capabilities on [CodeForces](https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot).
-*  I specialize in **architecting high-throughput automated workflows**, optimizing **complex system pipelines**, and leveraging **advanced pattern recognition** to solve **deterministic problems**.
+*  I’m analyzing high-throughput **automated logistics** in [Factorio](https://www.youtube.com/watch?v=vPdUjLqC15Q) and tactical **pattern recognition** on [Chess](https://www.chess.com/member/ghost_reboot).
 
 Actively seeking **remote backend engineering roles**, **software development internships**, and **freelance** system architecture opportunities globally.
 
 > [!NOTE]
 > I am currently pursuing a **B.Sc. Engineering in Computer Science (CSE)** at **[Bangladesh University of Business and Technology (*BUBT*)](https://www.bubt.edu.bd/)** — highly open to **enterprise internships**, **technical collaborations**, and **open-source contributions**.
 </br>
-<p align="center"><a href="https://mahfuz-shaikot.github.io/Project_01_Portfolio/"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="Website" height="35" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mahfuzul-bashar-shaikot-3130373b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot"><img src="https://img.shields.io/badge/Codeforces-FFCC00?style=flat&logo=codeforces&logoColor=black" alt="Codeforces" height="35" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="35" /></a>&nbsp;&nbsp;<a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter" height="35" /></a>&nbsp;&nbsp;<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="35" /></a>&nbsp;&nbsp;<a href="https://www.chess.com/member/ghost_reboot"><img src="https://img.shields.io/badge/Chess-7FA650?style=flat&logo=chessdotcom&logoColor=white" alt="Chess" height="35" /></a></p>
+<p align="center"><a href="https://mahfuz-shaikot.github.io/Project_01_Portfolio/"><img src="https://img.shields.io/badge/Website-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="Website" height="35" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mahfuz-shaikot/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot"><img src="https://img.shields.io/badge/Codeforces-FFCC00?style=flat&logo=codeforces&logoColor=black" alt="Codeforces" height="35" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="35" /></a>&nbsp;&nbsp;<a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter" height="35" /></a>&nbsp;&nbsp;<a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="35" /></a>&nbsp;&nbsp;<a href="https://www.chess.com/member/ghost_reboot"><img src="https://img.shields.io/badge/Chess-7FA650?style=flat&logo=chessdotcom&logoColor=white" alt="Chess" height="35" /></a></p>
 
 ---
 
