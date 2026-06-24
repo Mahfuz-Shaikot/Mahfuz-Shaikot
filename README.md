@@ -90,7 +90,6 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 [![](https://skillicons.dev/icons?i=linux,windows&perline=10)](https://skillicons.dev)
 
 -->
-
 ## 🛠️ Tech Stack
 
 #### 🚀 Backend & Enterprise
@@ -108,13 +107,13 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🤖 AI & Data
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-6B46C1?style=for-the-badge&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-00B4D8?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00B4D8?style=for-the-badge&logo=indigo&logoColor=white)
 
 #### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -136,9 +135,12 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 #### 🖥️ Operating Systems
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Mint](https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=87CF3E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ---
 
