@@ -64,35 +64,82 @@ Yes, I am open to **freelancing** opportunities and global **remote backend engi
 
 
 
+## 🛠️ Tech Stack
 
-## 🛠️ The Technical Ecosystem
+#### 🚀 Backend & Enterprise
+[![](https://skillicons.dev/icons?i=java,spring,kotlin,python,cpp,c&perline=10)](https://skillicons.dev)
 
-### 🚀 Backend & Enterprise
+#### 🌐 Frontend
+[![](https://skillicons.dev/icons?i=html,css,js,ts&perline=10)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=java,spring,kotlin,cpp,c&perline=10)](https://skillicons.dev)
+#### 🤖 AI & Data
+[![](https://skillicons.dev/icons?i=aws&perline=10)](https://skillicons.dev)
 
-### 🌐 Languages & Scripts
-
-[![](https://skillicons.dev/icons?i=ts,js,python,bash&perline=10)](https://skillicons.dev)
-
-### 💾 Databases & Caching
-
+#### 💾 Databases
 [![](https://skillicons.dev/icons?i=mysql,redis&perline=10)](https://skillicons.dev)
 
-### 🤖 AI & Orchestration
+#### ⚙️ DevOps & CI/CD
+[![](https://skillicons.dev/icons?i=docker,git,github,githubactions&perline=10)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=python,aws&perline=10)](https://skillicons.dev)
+#### 🧰 IDEs & Editors
+[![](https://skillicons.dev/icons?i=idea,pycharm,clion,webstorm,vscode,androidstudio&perline=10)](https://skillicons.dev)
 
-`LangChain` · `Vector Databases` · `RAG Pipelines` · `AWS SageMaker`
+#### 🖥️ Operating Systems
+`🎩 Fedora` 
 
-### ⚙️ Infrastructure & DevOps
+[![](https://skillicons.dev/icons?i=linux,windows&perline=10)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=docker,github,git,githubactions&perline=10)](https://skillicons.dev)
 
-### 🖥️ Environments
+<!--
+## 🛠️ Tech Stack
 
-[![](https://skillicons.dev/icons?i=linux,fedora,windows&perline=10)](https://skillicons.dev)
+#### 🚀 Backend & Enterprise
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🤖 AI & Data
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-6B46C1?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00B4D8?style=for-the-badge&logoColor=white)
+
+#### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### ⚙️ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### 🧰 IDEs & Editors
+![IntelliJ](https://img.shields.io/badge/IntelliJ-FF0090?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-A9C84C?style=for-the-badge&logo=pycharm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-E64CFF?style=for-the-badge&logo=clion&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+#### 🖥️ Operating Systems
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+-->
 ---
 
 
