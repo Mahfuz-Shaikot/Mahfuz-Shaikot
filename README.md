@@ -34,7 +34,7 @@ Currently—
 *  Actively refining **data structures**, **algorithmic optimization**, and **competitive programming** capabilities on [CodeForces](https://codeforces.com/profile/Mahfuzul_Bashar_Shaikot).
 *  I’m analyzing high-throughput **automated logistics** in [Factorio](https://www.youtube.com/watch?v=vPdUjLqC15Q) and tactical **pattern recognition** on [Chess](https://www.chess.com/member/ghost_reboot).
 
-Actively seeking **remote backend engineering roles**, **software development internships**, and **freelance** system architecture opportunities globally.
+Open to **Freelance** & **Full-Time** Roles: **Remote Backend Engineer | System Architect | Software Engineering Intern.**
 
 > [!NOTE]
 > I am currently pursuing a **B.Sc. Engineering in Computer Science (CSE)** at **[Bangladesh University of Business and Technology (*BUBT*)](https://www.bubt.edu.bd/)** — highly open to **enterprise internships**, **technical collaborations**, and **open-source contributions**.
