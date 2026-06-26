@@ -17,7 +17,7 @@
 
 I am a **Software Engineer** specializing in the design of **high-throughput distributed systems**, **secure enterprise backend architectures**, and scalable **AI integrations**.
 
-My engineering approach centers on a single mission:
+My system design mindset centers on a single mission:
 <br>
 <div align="center">
 
