@@ -17,10 +17,8 @@
 
 I am a **Software Engineer** specializing in the design of **high-throughput distributed systems**, **secure enterprise backend architectures**, and scalable **AI integrations**.
 
-My engineering philosophy centers on a simple principle:
-
+My engineering approach centers on a single mission:
 <br>
-
 <div align="center">
 
 ### <ins>I engineer complex business logic into production-grade software</ins>
