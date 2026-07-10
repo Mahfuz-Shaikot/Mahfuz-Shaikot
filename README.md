@@ -131,22 +131,23 @@ Open to **Freelance** & **Full-Time** Roles: **Remote Backend Engineer | System 
 ---
 
 ## 📊 GitHub Stats
+
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfuz-Shaikot&theme=tokyonight&background=0d1117&title=22C55E&sideTitle=22C55E&currStreakLabel=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=ffffff&text=ffffff&dates=ffffff&hide_border=true&v=4" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Mahfuz-Shaikot&theme=tokyonight&background=0d1117&title=22C55E&sideTitle=22C55E&currStreakLabel=22C55E&ring=22C55E&fire=22C55E&currStreakNum=22C55E&sideNums=ffffff&text=ffffff&dates=ffffff&hide_border=true&v=4" alt="GitHub Streak" width="100%" />
     </td>
     <!-- <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahfuz-Shaikot&show_icons=true&bg_color=0d1117&title_color=22C55E&text_color=ffffff&icon_color=22C55E&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Mahfuz-Shaikot&show_icons=true&bg_color=0d1117&title_color=22C55E&text_color=ffffff&icon_color=22C55E&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td> 
   </tr>  
   <tr> -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true" alt="Most Used Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true" alt="Most Used Languages" width="100%" />
     </td>
     <!-- <td width="50%" align="center">
-  <img src="https://github-readme-stats-markdown-bar.vercel.app/api/wakatime?username=Mahfuz_Shaikot&theme=tokyonight&custom_title=Time%20Spent&display_format=time" alt="Time Spent" />
-</td> -->
+      <img src="https://github-readme-stats-markdown-bar.vercel.app/api/wakatime?username=Mahfuz_Shaikot&theme=tokyonight&custom_title=Time%20Spent&display_format=time" alt="Time Spent" />
+    </td> -->
   </tr>
 </table>
 
