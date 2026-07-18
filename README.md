@@ -129,9 +129,6 @@ Open to **Freelance** & **Full-Time** Roles: **Remote Backend Engineer | System 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -143,7 +140,7 @@ Open to **Freelance** & **Full-Time** Roles: **Remote Backend Engineer | System 
   </tr>  
   <tr> -->
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true&hide=html,css,javascript,jupyter%20notebook&langs_count=8" alt="Most Used Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahfuz-Shaikot&layout=compact&bg_color=0d1117&title_color=22C55E&text_color=ffffff&hide_border=true&hide=html,css,jupyter%20notebook&langs_count=8" alt="Most Used Languages" width="100%" />
     </td>
     <!-- <td width="50%" align="center">
       <img src="https://github-readme-stats-markdown-bar.vercel.app/api/wakatime?username=Mahfuz_Shaikot&theme=tokyonight&custom_title=Time%20Spent&display_format=time" alt="Time Spent" />
